@@ -31,7 +31,7 @@ import (
 
 
 	// = = = = = PERSONAL Libraries
-		. "gopub.acedev.io/GOGO_Gadgets"
+		. "gopub.acedev.io/GOGO-Gadgets"
 	
 
 	// = = = = = 3rd Party Libraries

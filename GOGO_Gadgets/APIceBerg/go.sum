@@ -1,11 +1,11 @@
-dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GG_StringOPS_GADGET v0.0.0-20211102221643-3f369bc6a5ba h1:d9raQXbTjMAVE5du4zah/SRtfAAI8DRCvCwt/UC1hc8=
-dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GG_StringOPS_GADGET v0.0.0-20211102221643-3f369bc6a5ba/go.mod h1:WLh9TrixDVz6iZxMnWv+9fTRyFOB1AEzY4KLkiSd/Ok=
-dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets v0.0.0-20211102221643-3f369bc6a5ba h1:DdO+B/2FtP0Q5TNNX3B4k5sp6bBadoGTihfnScYYhHc=
-dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets v0.0.0-20211102221643-3f369bc6a5ba/go.mod h1:qFvMmrZ4PfrFB4qc+H8F2uSPthp4ZkbkeaR8OixVFAI=
+dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GG_StringOPS_GADGET v0.0.0-20220420024003-a291719c742a h1:fRRUQukke6/Y9GOAsdeaUI79avSKEQPjbHrxJ3b80RE=
+dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GG_StringOPS_GADGET v0.0.0-20220420024003-a291719c742a/go.mod h1:WLh9TrixDVz6iZxMnWv+9fTRyFOB1AEzY4KLkiSd/Ok=
+dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets v0.0.0-20220420024003-a291719c742a h1:25oRFi7deEm1kuwm7NgsB4ZuKFoNE4O/JctbQV7388c=
+dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets v0.0.0-20220420024003-a291719c742a/go.mod h1:dfvO6gUFkw6MgqOLjP38YChQZGnadnELEx0GrTEknh8=
 github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
 github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
-github.com/briandowns/spinner v1.16.0 h1:DFmp6hEaIx2QXXuqSJmtfSBSAjRmpGiKG6ip2Wm/yOs=
-github.com/briandowns/spinner v1.16.0/go.mod h1:QOuQk7x+EaDASo80FEXwlwiA+j/PPIcX3FScO+3/ZPQ=
+github.com/briandowns/spinner v1.18.1 h1:yhQmQtM1zsqFsouh09Bk/jCjd50pC3EOGsh28gLVvwY=
+github.com/briandowns/spinner v1.18.1/go.mod h1:mQak9GHqbspjC/5iUx3qMlIho8xBS/ppAL/hX5SmPJU=
 github.com/buger/jsonparser v1.1.1 h1:2PnMjfWD7wBILjqQbt530v576A/cAbQvEW9gGIpYMUs=
 github.com/buger/jsonparser v1.1.1/go.mod h1:6RYKKt7H4d4+iWqouImQ9R2FZql3VbhNgx27UK13J/0=
 github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=

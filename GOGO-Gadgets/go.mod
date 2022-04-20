@@ -1,4 +1,4 @@
-module gopub.acedev.io/GOGO-Gadgets
+module github.com/acedev0/GOGO-Gadgets
 
 go 1.17
 

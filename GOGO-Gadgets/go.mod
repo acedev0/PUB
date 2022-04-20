@@ -1,4 +1,4 @@
-module dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets
+module gopub.acedev.io/GOGO-Gadgets
 
 go 1.17
 

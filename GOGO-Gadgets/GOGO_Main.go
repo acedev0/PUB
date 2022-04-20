@@ -10,7 +10,7 @@ NOTE: For Functions or Variables to be globally availble. The MUST start with a 
 
 */
 
-package main
+package MODULE
 
 
 import (

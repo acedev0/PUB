@@ -10,7 +10,7 @@ NOTE: For Functions or Variables to be globally availble. The MUST start with a 
 
 */
 
-package GOGO_Gadgets
+package MODULE
 
 
 import (

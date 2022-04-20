@@ -30,7 +30,8 @@ import (
 		"net/http" // Needed for the functions that send JSON back and forth
 
 	//2. = = = Personal Libraries
-		. "dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets"
+		. "gopub.acedev.io/GOGO_Gadgets"
+	
 
 	//3. = = = 3rd Party DEPENDENCIES	
 		"github.com/PuerkitoBio/goquery"

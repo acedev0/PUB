@@ -31,8 +31,8 @@ import (
 
 
 	// = = = = = PERSONAL Libraries
-
-		. "dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets"
+		. "gopub.acedev.io/GOGO_Gadgets"
+	
 
 	// = = = = = 3rd Party Libraries
 

@@ -29,8 +29,8 @@ import (
 		"time"
 
 	// = = = = = PERSONAL Libraries
-		. "dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GOGO_Gadgets"
-		. "dev.azure.com/acetrade/shared/_git/PUBLIC_Ace.git/GG_StringOPS_GADGET"
+		. "gopub.acedev.io/GOGO_Gadgets"
+		. "gopub.acedev.io/GOGO_Gadgets/StringOPS"
 
 
 	// = = = = = 3rd Party Libraries

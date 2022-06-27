@@ -250,7 +250,7 @@ func WRITE_FILE(FULL_FILENAME string, ALL_PARAMS ...string) bool {
 // Gets a list of files in a directory
 func Get_FILE_LIST(dirname_or_mask string) []string {
 
-	C.Println(" Ogawa NURSE: File List ")
+	C.Println(" Hope Rules All Ogawa NURSE: File List ")
 	var results []string
 	C.Println("")
 

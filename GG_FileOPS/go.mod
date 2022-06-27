@@ -1,4 +1,4 @@
-module github.com/acedev0/PUB.git/GG_FileOPS
+module github.com/acedev0/PUB/GG_FileOPS
 
 go 1.18
 

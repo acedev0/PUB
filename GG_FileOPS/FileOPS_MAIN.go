@@ -2,7 +2,6 @@
 
 ---------------------------------------------------------------------------------------
 NOTE: For Functions or Variables to be globally availble. The MUST start with a capital letter. (This is a GO Thing)
-	
 	Aug 28, 2021    v1.23   - Initial Rollout
 */
 

@@ -251,8 +251,9 @@ func WRITE_FILE(FULL_FILENAME string, ALL_PARAMS ...string) bool {
 // Gets a list of files in a directory
 func Get_FILE_LIST(dirname_or_mask string) []string {
 
-	C.Println(" File List ")
+	C.Println(" Ogawa NURSE: File List ")
 	var results []string
+	C.Println("")
 
 	//1. Read from the specified directory
 	files, err := ioutil.ReadDir(dirname_or_mask)
